@@ -3,9 +3,6 @@ University Project
 # FreeCol - Colonization Strategy Game
 
 
-
-[![Latest Release](https://img.shields.io/github/release/FreeCol/freecol/all.svg)](https://github.com/FreeCol/freecol/releases) [![Latest Release Downloads](https://img.shields.io/github/downloads/FreeCol/freecol/total.svg)](https://github.com/FreeCol/freecol/releases)
-
 FreeCol is a turn-based strategy game based on the old game
 Colonization, and similar to Civilization. The objective of the game is
 to create an independent nation.

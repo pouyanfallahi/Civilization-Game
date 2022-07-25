@@ -42,3 +42,8 @@ There is also a fog of war that you cannot see your neighbors strategy while you
 # Authentication
 
 Each step in game have full authentication for players; When you wanna enter the game you should authenticate yourself completely with username and password and for each turn that you get you should do the same thing as well.
+
+# guidance
+check the game rules completely in this below link.
+
+https://en.wikipedia.org/wiki/Civilization_(series)

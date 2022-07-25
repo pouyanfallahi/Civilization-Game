@@ -12,7 +12,7 @@ World?
 
 ## About civilization.com
 
-**Website: [FreeCol.org](http://www.freecol.org/)**
+**Website: ((https://civilization.com/))**
 
 The FreeCol team aims to create an Open Source version of Colonization
 (released under the GPL). At first we'll try to make an exact clone of

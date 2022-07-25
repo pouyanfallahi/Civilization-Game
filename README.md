@@ -32,5 +32,6 @@ Once FreeCol 1.0.0 is finished we'll start working towards FreeCol
 2.0.0. FreeCol 2 will go beyond the original Colonization and will have
 many new features, it will be an implementation of our (and our users')
 image of what Colonization 2 would have been.
+# Map
 [https://postimg.cc/v43FbJGq](https://i.postimg.cc/KYyZrbw2/Screenshot-from-2022-07-09-23-02-10.png)
-
+map has all the nessecary information about wvery details of the game such as each civilization(at least two), Train(colors), Terrain-Features, Improvements, Units(all their actions)

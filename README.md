@@ -1,4 +1,4 @@
-# Civilization-Game | University-Final-Project
+# Civilization-Game . University-Final-Project
 
 # FreeCol - Colonization Strategy Game
 

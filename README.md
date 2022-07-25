@@ -10,7 +10,7 @@ You start with only a few colonists defying the stormy seas in their
 search for new land. Will you guide them on the Colonization of a New
 World?
 
-## About FreeCol
+## About civilization.com
 
 **Website: [FreeCol.org](http://www.freecol.org/)**
 

@@ -1,6 +1,6 @@
 # Civilization-Game
 
-##University Project
+#University_Project
 
 # FreeCol - Colonization Strategy Game
 

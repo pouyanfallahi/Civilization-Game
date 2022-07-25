@@ -32,5 +32,5 @@ Once FreeCol 1.0.0 is finished we'll start working towards FreeCol
 2.0.0. FreeCol 2 will go beyond the original Colonization and will have
 many new features, it will be an implementation of our (and our users')
 image of what Colonization 2 would have been.
-https://postimg.cc/v43FbJGq/cd427f07
+https://postimg.cc/v43FbJGq
 

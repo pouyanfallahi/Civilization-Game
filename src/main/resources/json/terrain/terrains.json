@@ -1,0 +1,122 @@
+[
+  {
+    "key": "desert",
+    "name": "کویر",
+    "food": 0,
+    "products": 0,
+    "gold": 0,
+    "fightingChanges": -33,
+    "travelCost": 1,
+    "possibleFeatures": [
+      "oasis",
+      "plain"
+    ],
+    "possibleResources":[
+      "iron", "oil", "aluminum", "uranium", "gold", "silver", "gem", "marble", "cotton", "incense", "sheep"
+    ]
+  },
+  {
+    "key": "meadow",
+    "name": "چمنزار",
+    "food": 2,
+    "products": 0,
+    "gold": 0,
+    "fightingChanges": -33,
+    "travelCost": 1,
+    "possibleFeatures": [
+      "forrest",
+      "swamp"
+    ],
+    "possibleResources":[
+      "iron", "Horse", "Coal", "Uranium", "Cattle", "Gold", "Gem", "Marble", "Cotton", "Wine", "Sheep"
+    ]
+  },
+  {
+    "key": "hill",
+    "name": "تپه",
+    "food": 0,
+    "products": 2,
+    "gold": 0,
+    "fightingChanges": 25,
+    "travelCost": 2,
+    "possibleFeatures": [
+      "Jungle",
+      "Dense forest"
+    ],
+    "possibleResources":[
+      "iron", "coal", "aluminum", "uranium", "deer", "gold", "silver", "gem", "marble", "sheep"
+    ]
+  },
+  {
+    "key": "mountain",
+    "name": "کوه",
+    "food": 0,
+    "products": 0,
+    "gold": 0,
+    "fightingChanges": 25,
+    "travelCost": "غیر قابل عبور",
+    "possibleFeatures": [
+
+    ],
+    "possibleResources":[null
+    ]
+  },
+  {
+    "key": "ocean",
+    "name": "اقیانوس",
+    "food": 0,
+    "products": 0,
+    "gold": 0,
+    "fightingChanges": 25,
+    "travelCost": "غیر قابل عبور",
+    "possibleFeatures": [null
+    ],
+    "possibleResources":[
+    ]
+  },
+  {
+    "key": "field",
+    "name": "دشت",
+    "food": 1,
+    "products": 1,
+    "gold": 0,
+    "fightingChanges": -33,
+    "travelCost": 1,
+    "possibleFeatures": [
+      "Jungle",
+      "Dense forest"
+    ],
+    "possibleResources":[
+      "iron", "horse", "coal", "aluminum", "uranium", "wheat", "gold", "gem", "marble", "ivory", "cotton", "wine", "incense", "sheep"
+    ]
+  },
+  {
+    "key": "snow",
+    "name": "برف",
+    "food": 0,
+    "products": 0,
+    "gold": 0,
+    "fightingChanges": -33,
+    "travelCost": 1,
+    "possibleFeatures": [
+    ],
+    "possibleResources":[
+      "iron", "oil", "uranium"
+    ]
+  },
+  {
+    "key": "tundra",
+    "name": "توندرا",
+    "food": 1,
+    "products": 0,
+    "gold": 0,
+    "fightingChanges": -33,
+    "travelCost": 1,
+    "possibleFeatures": [
+      "forrest"
+    ],
+    "possibleResources":[
+      "Iron", "Horse", "Oil", "Aluminum", "Uranium", "Deer", "Silver", "Gem", "Marble", "Wool"
+    ]
+  }
+]

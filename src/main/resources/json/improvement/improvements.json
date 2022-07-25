@@ -1,0 +1,122 @@
+[
+  {
+    "key" : "pasture",
+    "name": "چراگاه",
+    "tileEfficiency": null,//dsakjfosfda
+    "resourcesNeedThisDevelopment": [
+      "horses", "cows", "sheep"
+    ],
+    "preRequestTech": "livestock",
+    "builtInThesePlaces": [
+      "plain", "desert", "meadow", "tundra", "hill"
+    ]
+  }, {
+  "key" : "farming",
+  "name": "کشت و کار",
+  "tileEfficiency": null,
+  "resourcesNeedThisDevelopment": [
+    "banana", "cotton", "dye", "incense", "silk", "sugar"
+  ],
+  "preRequestTech": "calender",
+  "builtInThesePlaces": [
+    "plain", "desert", "meadow", "forest", "dense forest", "swamp", "plain"
+  ]
+},
+  {
+    "key" : "Stone quarry",
+    "name": "معدن سنگ",
+    "tileEfficiency": null,
+    "resourcesNeedThisDevelopment": [
+      "marble"
+    ],
+    "preRequestTech": "livestock",
+    "builtInThesePlaces": [
+      "plain", "desert", "meadow", "tundra", "hill"
+    ]
+  }, {
+  "key" : "trading Post",
+  "name": "پست تجاری",
+  "tileEfficiency": null,
+  "resourcesNeedThisDevelopment": [
+    null
+  ],
+  "preRequestTech": "trapping",
+  "builtInThesePlaces": [
+    "plain", "desert", "meadow", "tundra"
+  ]
+}, {
+  "key" : "factory",
+  "name": "کارخانه",
+  "tileEfficiency": null,
+  "resourcesNeedThisDevelopment": [
+    null
+  ],
+  "preRequestTech": "engineering",
+  "builtInThesePlaces": [
+    trapping
+    agriculture
+    Construction
+    mining
+    animal husbandry
+    Calendar
+    Masonry
+    trapping
+    Engineering,
+    ```
+    camp
+    Farm
+    Lumber Mill
+    mine
+    Pasture
+    farming
+    stone mine
+    Trading Post
+    factory,
+    "plain", "desert", "meadow", "tundra", "snow"
+  ]
+},  {
+  "key" : "pasture",
+  "name": "چراگاه",
+  "tileEfficiency": null,
+  "resourcesNeedThisDevelopment": [
+    "horses", "cows", "sheep"
+  ],
+  "preRequestTech": "livestock",
+  "builtInThesePlaces": [
+    "plain", "desert", "meadow", "tundra", "hill"
+  ]
+},  {
+  "key" : "camp",
+  "name": "کمپ",
+  "tileEfficiency": null,
+  "resourcesNeedThisDevelopment": [
+    "fur", "ivory", "deer"
+  ],
+  "preRequestTech": "livestock",
+  "builtInThesePlaces": [
+    "plain", "desert", "meadow", "tundra", "hill"
+  ]
+},  {
+  "key" : "farm",
+  "name": " مزرعه",
+  "tileEfficiency": null,
+  "resourcesNeedThisDevelopment": [
+    "wheat"
+  ],
+  "preRequestTech": "agriculture",
+  "builtInThesePlaces": [
+    "plain", "desert", "meadow"
+  ]
+},  {
+  "key" : "mine",
+  "name": "معدن",
+  "tileEfficiency": null,
+  "resourcesNeedThisDevelopment": [
+    "plain", "desert", "meadow", "tundra", "snow", "hill", "forest", "dense", "forest", "swamp"
+  ],
+  "preRequestTech": "mining",
+  "builtInThesePlaces": [
+    "plain", "desert", "meadow", "tundra", "hill"
+  ]
+}
+]

@@ -1,0 +1,233 @@
+[
+  {
+    "key": "wheat",
+    "name": "گندم",
+    "food": 1,
+    "production": 0,
+    "gold": 0,
+    "canBeFoundOn": [
+      "plain",
+      "field"
+    ],
+    "type": "BONUS",
+    "improvementNeeded": "مزرعه"
+  },
+  {
+    "key": "banana",
+    "name": "موز",
+    "food": 1,
+    "production": 0,
+    "gold": 0,
+    "canBeFoundOn": [
+      "forest"
+    ],
+    "type": "BONUS",
+    "improvementNeeded": "مزرعه"
+  },
+  {
+    "key": "cow",
+    "name": "گاو",
+    "food": 1,
+    "production": 0,
+    "gold": 0,
+    "canBeFoundOn": [
+      "Medow"
+    ],
+    "type": "BONUS",
+    "improvementNeeded": "pasture"
+  },
+  {
+    "key": "deer",
+    "name": "آهو",
+    "food": 1,
+    "production": 0,
+    "gold": 0,
+    "canBeFoundOn": [
+      "forest",
+      "tundra",
+      "hill"
+    ],
+    "type": "BONUS",
+    "improvementNeeded": "camp"
+  },
+  {
+    "key": "sheep",
+    "name": "گوسفند",
+    "food": 2,
+    "production": 0,
+    "gold": 0,
+    "canBeFoundOn": [
+      "plain", "meadow", "desert", "hill"
+    ],
+    "type": "BONUS",
+    "improvementNeeded": "pasture"
+  },
+  {
+    "key": "iron",
+    "name": "آهن",
+    "food": 0,
+    "production": 1,
+    "gold": 0,
+    "canBeFoundOn": [
+      "field", "hill", "meadow"
+    ],
+    "type": "STRATEGIC",
+    "improvementNeeded": "mine"
+  },
+  {
+    "key": "horse",
+    "name": "اسب",
+    "food": 0,
+    "production": 1,
+    "gold": 0,
+    "canBeFoundOn": [
+      "field", "meadow", "tundra"
+    ],
+    "type": "STRATEGIC",
+    "improvementNeeded": "pasture"
+  },
+  {
+    "key": "iron",
+    "name": "آهن",
+    "food": 0,
+    "production": 1,
+    "gold": 0,
+    "canBeFoundOn": [
+      "field", "tundra", "desert", "hill","meadow","snow"
+    ],
+    "type": "STRATEGIC",
+    "improvementNeeded": "mine"
+  },
+  {
+    "key": "cotton",
+    "name": "پنبه",
+    "food": 0,
+    "production": 0,
+    "gold": 2,
+    "canBeFoundOn": [
+      "field","desert","meadow"
+    ],
+    "type": "LUXURY",
+    "improvementNeeded": "farming"
+  },
+  {
+    "key": "fur",
+    "name": "خز",
+    "food": 0,
+    "production": 0,
+    "gold": 2,
+    "canBeFoundOn": [
+      "forest","tundra"
+    ],
+    "type": "LUXURY",
+    "improvementNeeded": "camp"
+  },
+  {
+    "key": "gemstone",
+    "name": "سنگهای قیمتی",
+    "food": 0,
+    "production": 0,
+    "gold": 3,
+    "canBeFoundOn": [
+      "dense forests","field","tundra","desert","meadow","hill"
+    ],
+    "type": "LUXURY",
+    "improvementNeeded": "mine"
+  },
+  {
+    "key": "gold",
+    "name": "طلا",
+    "food": 0,
+    "production": 0,
+    "gold": 2,
+    "canBeFoundOn": [
+      "field","desert","meadow","hill"
+    ],
+    "type": "LUXURY",
+    "improvementNeeded": "mine"
+  },
+  {
+    "key": "eatIt", //chieeeeee
+    "name": "بخور",
+    "food": 0,
+    "production": 0,
+    "gold": 2,
+    "canBeFoundOn": [
+      "field","desert"
+    ],
+    "type": "LUXURY",
+    "improvementNeeded": "farming"
+  },
+  {
+    "key": "cotton",
+    "name": "پنبه",
+    "food": 0,
+    "production": 0,
+    "gold": 2,
+    "canBeFoundOn": [
+      "field","desert","meadow"
+    ],
+    "type": "LUXURY",
+    "improvementNeeded": "farming"
+  },
+  {
+    "key": "ivory",
+    "name": "عاج",
+    "food": 0,
+    "production": 0,
+    "gold": 2,
+    "canBeFoundOn": [
+      "field","desert","meadow"
+    ],
+    "type": "LUXURY",
+    "improvementNeeded": "farming"
+  },
+  {
+    "key": "marble",
+    "name": "مرمر",
+    "food": 0,
+    "production": 0,
+    "gold": 2,
+    "canBeFoundOn": [
+      "field","desert","meadow","hill","tundra"
+    ],
+    "type": "LUXURY",
+    "improvementNeeded": "stone quarry"
+  },
+  {
+    "key": "silk",
+    "name": "ابریشم",
+    "food": 0,
+    "production": 0,
+    "gold": 2,
+    "canBeFoundOn": [
+      "forest"
+    ],
+    "type": "LUXURY",
+    "improvementNeeded": "farming"
+  },
+  {
+    "key": "silver",
+    "name": "نقره",
+    "food": 0,
+    "production": 0,
+    "gold": 2,
+    "canBeFoundOn": [
+      "tundra","desert","hill"
+    ],
+    "type": "LUXURY",
+    "improvementNeeded": "mine"
+  },
+  {
+    "key": "sugar",
+    "name": "شکر",
+    "food": 0,
+    "production": 0,
+    "gold": 2,
+    "canBeFoundOn": [
+      "plain","swamp"
+    ],
+    "type": "LUXURY",
+    "improvementNeeded": "farming"
+  }
+]

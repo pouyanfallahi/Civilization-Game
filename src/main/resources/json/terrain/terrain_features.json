@@ -1,0 +1,88 @@
+[
+  {
+    "key" : "oasis",
+    "name" : "واحه",
+    "food": 2,
+    "products": 0,
+    "gold": 0,
+    "fightingChanges": -33,
+    "travelCosts": 1,
+    "possibleResources": [
+
+    ]
+  },
+  {
+    "key" : "forrest",
+    "name" : "جنگل",
+    "food": 1,
+    "products": 1,
+    "gold": 0,
+    "fightingChanges": 25,
+    "travelCosts": 2,
+    "possibleResources": [
+      "uranium", "deer", "wool", "dye", "silk"
+    ]
+  },
+  {
+    "key" : "ice",
+    "name" : "یخ",
+    "food": 0,
+    "products": 0,
+    "gold": 0,
+    "fightingChanges": 0,
+    "travelCosts": "غیر قابل عبور",
+    "possibleResources": [
+    ]
+  },
+  {
+    "key" : "Dense forest",
+    "name" : "جنگل انبوه",
+    "food": 1,
+    "products": -1,
+    "gold": 0,
+    "fightingChanges": 25,
+    "travelCosts": 2,
+    "possibleResources": [
+      "oil", "uranium", "bananas", "gems", "dyes", "spices"
+    ]
+  },  {
+  "key" : "swamp",
+  "name" : "مرداب",
+  "food": -1,
+  "products": 0,
+  "gold": 0,
+  "fightingChanges": 33,
+  "travelCosts": 2,
+  "possibleResources": [
+    "oil", "uranium", "sugar"
+  ]
+},
+  {
+    "key" : "river",
+    "name" : "رودخانه",
+    "food": 0,
+    "products": 0,
+    "gold": 1,
+    "fightingChanges": 0,
+    "travelCosts": "کل پوینت های باقی مانده",
+    "possibleResources": [
+      beporsss
+
+    ]
+  },
+  {
+    "key" : "plain",
+    "name" : "جلگه",
+    "food": 2,
+    "products": 0,
+    "gold": 0,
+    "fightingChanges": 33,
+    "travelCosts": 1,
+    "possibleResources": [
+
+      "wheat", "sugar"
+
+    ]
+  }
+]
+

@@ -1,0 +1,282 @@
+[
+  {
+    "key": "barracks",
+    "name":"پادگان",
+    "cost": 80,
+    "maintenance": 1,
+    "technologyRequired": "bronze working",
+    "type": "ANCIENT_ERA"
+  },
+  {
+    "key": "granary",
+    "name":"انبار غلات",
+    "cost": 100,
+    "maintenance": 1,
+    "technologyRequired": "pottery",
+    "type": "ANCIENT_ERA"
+  },
+  {
+    "key": "library",
+    "name":"کتابخانه",
+    "cost": 80,
+    "maintenance": 1,
+    "technologyRequired": "writing",
+    "type": "ANCIENT_ERA"
+  },
+  {
+    "key": "monument",
+    "name":"بنای تاریخی",
+    "cost": 60,
+    "maintenance": 1,
+    "technologyRequired": "None",
+    "type": "ANCIENT_ERA"
+  },
+  {
+    "key": "walls",
+    "name":"دیوار",
+    "cost": 100,
+    "maintenance": 1,
+    "technologyRequired": "masonry",
+    "type": "ANCIENT_ERA"
+  },
+  {
+    "key": "water mill",
+    "name":"آسیاب آبی",
+    "cost": 120,
+    "maintenance": 2,
+    "technologyRequired": "the wheel",
+    "type": "ANCIENT_ERA"
+  },
+  {
+    "key": "armory",
+    "name":"اسلحه خانه",
+    "cost": 130,
+    "maintenance": 3,
+    "technologyRequired": "iron working",
+    "type": "CLASSICAL_ERA"
+  },
+  {
+    "key": "temple",
+    "name":"معبد",
+    "cost": 120,
+    "maintenance": 2,
+    "technologyRequired": "philosophy",
+    "type": "CLASSICAL_ERA"
+  },
+  {
+    "key": "burial tomb",
+    "name":"آرامگاه دفن",
+    "cost": 120,
+    "maintenance": 0,
+    "technologyRequired": "philosophy",
+    "type": "CLASSICAL_ERA"
+  },
+  {
+    "key": "circus",
+    "name":"سیرک",
+    "cost": 150,
+    "maintenance": 3,
+    "technologyRequired": "horseback riding ",
+    "type": "CLASSICAL_ERA"
+  },
+  {
+    "key": "courthouse",
+    "name":"دادگاه",
+    "cost": 200,
+    "maintenance": 5,
+    "technologyRequired": "Mathematics",
+    "type": "CLASSICAL_ERA"
+  },
+  {
+    "key": "colosseum",
+    "name":"کولوسئوم",
+    "cost": 150,
+    "maintenance": 3,
+    "technologyRequired": "construction",
+    "type": "CLASSICAL_ERA"
+  },
+  {
+    "key": "stable",
+    "name":"اصطبل",
+    "cost": 100,
+    "maintenance": 1,
+    "technologyRequired": "horseback riding",
+    "type": "CLASSICAL_ERA"
+  },
+  {
+    "key": "castle",
+    "name":"قلعه",
+    "cost": 200,
+    "maintenance": 3,
+    "technologyRequired": "chivalry",
+    "type": "MEDIEVAL_ERA"
+  },
+  {
+    "key": "forge",
+    "name":"کوره اهنگری",
+    "cost": 150,
+    "maintenance": 2,
+    "technologyRequired": "metal casting",
+    "type": "MEDIEVAL_ERA"
+  },
+  {
+    "key": "garden",
+    "name":"باغ",
+    "cost": 200,
+    "maintenance": 3,
+    "technologyRequired": "chivalry",
+    "type": "MEDIEVAL_ERA"
+  },
+  {
+    "key": "market",
+    "name":"بازار",
+    "cost": 120,
+    "maintenance": 0,
+    "technologyRequired": "Currency",
+    "type": "MEDIEVAL_ERA"
+  },
+  {
+    "key": "mint",
+    "name":"نعناع",
+    "cost": 120,
+    "maintenance": 0,
+    "technologyRequired": "Currency",
+    "type": "MEDIEVAL_ERA"
+  },
+  {
+    "key": "monastery",
+    "name":"قلعه",
+    "cost": 120,
+    "maintenance": 2,
+    "technologyRequired": "theology",
+    "type": "MEDIEVAL_ERA"
+  },
+  {
+    "key": "university",
+    "name":"دانشگاه",
+    "cost": 200,
+    "maintenance": 3,
+    "technologyRequired": "education",
+    "type": "MEDIEVAL_ERA"
+  },
+  {
+    "key": "workshop",
+    "name":"کارگاه",
+    "cost": 100,
+    "maintenance": 2,
+    "technologyRequired": "metal casting",
+    "type": "MEDIEVAL_ERA"
+  },
+  {
+    "key": "bank",
+    "name":"بانک",
+    "cost": 220,
+    "maintenance": 0,
+    "technologyRequired": "banking",
+    "type": "RENAISSANCE_ERA"
+  },
+  {
+    "key": "military academy",
+    "name":"آکادمی نظامی",
+    "cost": 350,
+    "maintenance": 3,
+    "technologyRequired": "military science",
+    "type": "RENAISSANCE_ERA"
+  },
+  {
+    "key": "museum",
+    "name":"موزه",
+    "cost": 350,
+    "maintenance": 3,
+    "technologyRequired": "archaeology",
+    "type": "RENAISSANCE_ERA"
+  },
+  {
+    "key": "Opera House",
+    "name":"خانه اپرا",
+    "cost": 220,
+    "maintenance": 3,
+    "technologyRequired": "acoustics",
+    "type": "RENAISSANCE_ERA"
+  },
+  {
+    "key": "public school",
+    "name":"مدرسه دولتی",
+    "cost": 350,
+    "maintenance": 3,
+    "technologyRequired": "scientific theory",
+    "type": "RENAISSANCE_ERA"
+  },
+  {
+    "key": "Satrap’s Court",
+    "name":"دادگاه ساتراپ",
+    "cost": 220,
+    "maintenance": 0,
+    "technologyRequired": "banking",
+    "type": "RENAISSANCE_ERA"
+  },
+  {
+    "key": "theater",
+    "name":"بانک",
+    "cost": 300,
+    "maintenance": 5,
+    "technologyRequired": "printing press",
+    "type": "RENAISSANCE_ERA"
+  },
+  {
+    "key": "windmill",
+    "name":"اسیاب بادی",
+    "cost": 180,
+    "maintenance": 2,
+    "technologyRequired": "economics",
+    "type": "RENAISSANCE_ERA"
+  },
+  {
+    "key": "arsenal",
+    "name":"اسیاب بادی",
+    "cost": 350,
+    "maintenance": 3,
+    "technologyRequired": "railroad",
+    "type": "INDUSTRIAL_ERA"
+  },
+  {
+    "key": "factory",
+    "name":"کارخانه",
+    "cost": 300,
+    "maintenance": 3,
+    "technologyRequired": "steam power",
+    "type": "INDUSTRIAL_ERA"
+  },
+  {
+    "key": "broadcast tower",
+    "name":"اسیاب بادی",
+    "cost": 600,
+    "maintenance": 3,
+    "technologyRequired": "radio",
+    "type": "INDUSTRIAL_ERA"
+  },
+  {
+    "key": "hospital",
+    "name":"بیمارستان",
+    "cost": 400,
+    "maintenance": 2,
+    "technologyRequired": "biology",
+    "type": "INDUSTRIAL_ERA"
+  },
+  {
+    "key": "Military Base",
+    "name":"پایگاه نظامی",
+    "cost": 450,
+    "maintenance": 4,
+    "technologyRequired": "telegraph",
+    "type": "INDUSTRIAL_ERA"
+  },
+  {
+    "key": "stock exchange",
+    "name":"بورس اوراق بهادار",
+    "cost": 650,
+    "maintenance": 0,
+    "technologyRequired": "electricity",
+    "type": "INDUSTRIAL_ERA"
+  }
+]

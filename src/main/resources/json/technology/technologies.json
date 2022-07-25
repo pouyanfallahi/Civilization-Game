@@ -1,0 +1,746 @@
+[
+  {
+    "key" : "Trapping",
+    "name": "تله گذاری",
+    "cost": 55,
+    "prerequisiteTechs": [
+      "animal husbandry"
+    ],
+    "leadsToTechs": [
+      "civil service"
+    ],
+    "unlocks":[
+      "trading", "post", "camp"
+    ],
+    "type": "Ancient_Era"
+  },
+  {
+    "key" : "writing",
+    "name": "نوشتن",
+    "cost": 55,
+    "prerequisiteTechs": [
+      "pottery"
+    ],
+    "leadsToTechs": [
+      "philosophy"
+    ],
+    "unlocks": [
+      "library"
+    ],
+    "type": "Ancient_Era"
+  },
+  {
+    "key" : "Agriculture",
+    "name": "کشاورزی",
+    "cost": 20,
+    "prerequisiteTechs": [
+      "Civil Service"
+    ],
+    "leadsToTechs": [
+      "pottery",
+      "animal husbandry",
+      "archery","mining"
+    ],
+    "unlocks":[
+      "farm"
+    ],
+    "type": "Ancient_Era"
+  },
+  {
+    "key" : "animal husbandry",
+    "name": "دام پروری",
+    "cost": 35,
+    "prerequisiteTechs": [
+      "agriculture"
+    ],
+    "leadsToTechs": [
+      "trapping",
+      "the wheel"
+    ],
+    "unlocks":[
+      "horse", "pasture"
+    ],
+    "type": "Ancient_Era"
+  },
+  {
+    "key" : "Archery",
+    "name": "تیراندازی با کمان",
+    "cost": 35,
+    "prerequisiteTechs": [
+      "agriculture"
+    ],
+    "leadsToTechs": [
+      "mathematics"
+    ],
+    "unlocks":[
+      "archer"
+    ],
+    "type": "Ancient_Era"
+  },
+  {
+    "key" : "bronze working",
+    "name": "برنز کاری",
+    "cost": 55,
+    "prerequisiteTechs": [
+      "mining"
+    ],
+    "leadsToTechs": [
+      "iron working"
+    ],
+    "unlocks":[
+      "Spearman", "Barracks",
+      "حذف کردن جنگل های انبوه"
+    ],
+    "type": "Ancient_Era"
+  },
+  {
+    "key" : "calendar",
+    "name": "تقویم",
+    "cost": 70,
+    "prerequisiteTechs": [
+      "pottery"
+    ],
+    "leadsToTechs": [
+      "theology"
+    ],
+    "unlocks":[
+      "farming"
+    ],
+    "type": "Ancient_Era"
+  },
+  {
+    "key" : "masonry",
+    "name": "سنگ تراشی",
+    "cost": 55,
+    "prerequisiteTechs": [
+      "mining"
+    ],
+    "leadsToTechs": [
+      "construction"
+    ],
+    "unlocks":[
+      "wall",
+      "معدن سنگ",
+      "حذف مرداب"
+    ],
+    "type": "Ancient_Era"
+  },
+  {
+    "key" : "mining",
+    "name": "معدن",
+    "cost": 35,
+    "prerequisiteTechs": [
+      "agriculture"
+    ],
+    "leadsToTechs": [
+      "masonry",
+      "bronze working"
+    ],
+    "unlocks":[
+      "mine",
+      "حذف جنگل ها"
+    ],
+    "type": "Ancient_Era"
+  },
+  {
+    "key" : "pottery",
+    "name": "کوزه گری",
+    "cost": 35,
+    "prerequisiteTechs": [
+      "agriculture"
+    ],
+    "leadsToTechs": [
+      "calendar",
+      "writing"
+    ],
+    "unlocks":[
+      "granary"
+    ],
+    "type": "Ancient_Era"
+  },
+  {
+    "key" : "the wheel",
+    "name": "چرخ",
+    "cost": 55,
+    "prerequisiteTechs": [
+      "animal husbandry"
+    ],
+    "leadsToTechs": [
+      "horseback riding",
+      "mathematics"
+    ],
+    "unlocks":[
+      "chariot", "archer", "water","iron"
+    ],
+    "type": "Ancient_Era"
+  },
+  {
+    "key" : "construction",
+    "name": "ساخت و ساز",
+    "cost": 100,
+    "prerequisiteTechs": [
+      "Masonry"
+    ],
+    "leadsToTechs": [
+      "Engineering"
+    ],
+    "unlocks":[
+      "colosseum", "bridges over river"
+    ],
+    "type": "Classical_Era"
+  },
+  {
+    "key" : "horseback riding",
+    "name": "اسب سواری",
+    "cost": 100,
+    "prerequisiteTechs": [
+      "the wheel"
+    ],
+    "leadsToTechs": [
+      "chivalry"
+    ],
+    "unlocks":[
+      "horseman", "stable", "circus"
+    ],
+    "type": "Classical_Era"
+  },
+  {
+    "key" : "iron working",
+    "name": "آهن کاری",
+    "cost": 150,
+    "prerequisiteTechs": [
+      "bronze working"
+    ],
+    "leadsToTechs": [
+      "metal casting"
+    ],
+    "unlocks":[
+      "Swordsman", "Legion", "Armory", "iron"
+    ],
+    "type": "Classical_Era"
+  },
+  {
+    "key" : "Mathematics",
+    "name": "ریاضیات",
+    "cost": 100,
+    "prerequisiteTechs": [
+      "whe wheel",
+      "archery"
+    ],
+    "leadsToTechs": [
+      "currency",
+      "engineering"
+    ],
+    "unlocks":[
+      "courthouse", "catapult"
+    ],
+    "type": "Classical_Era"
+  },
+  {
+    "key" : "philosophy",
+    "name": "فلسفه",
+    "cost": 100,
+    "prerequisiteTechs": [
+      "writing"
+    ],
+    "leadsToTechs": [
+      "theology",
+      "civil service"
+    ],
+    "unlocks":[
+      "burial tomb", "temple"
+    ],
+    "type": "Classical_Era"
+  },
+  {
+    "key" : "chivalry",
+    "name": "جوانمردی",
+    "cost": 440,
+    "prerequisiteTechs": [
+      "civil service",
+      "horseback riding",
+      "currency"
+    ],
+    "leadsToTechs": [
+      "banking"
+    ],
+    "unlocks":[
+      "Knight", "camel archer","castle"
+    ],
+    "type": "Medieval_Era"
+  },
+  {
+    "key" : "civil service",
+    "name": "خدمات مدنی",
+    "cost": 400,
+    "prerequisiteTechs": [
+      "philosophy",
+      "trapping"
+    ],
+    "leadsToTechs": [
+      "chivalry"
+    ],
+    "unlocks":[
+      "pikeman"
+    ],
+    "type": "Medieval_Era"
+  },
+  {
+    "key" : "currency",
+    "name": "واحد پول",
+    "cost": 250,
+    "prerequisiteTechs": [
+      "Mathematics"
+    ],
+    "leadsToTechs": [
+      "Chivalry"
+    ],
+    "unlocks":[
+      "market"
+    ],
+    "type": "Medieval_Era"
+  },
+  {
+    "key" : "education",
+    "name": "تحصیلات",
+    "cost": 440,
+    "prerequisiteTechs": [
+      "theology"
+    ],
+    "leadsToTechs": [
+      "acoustics",
+      "banking"
+    ],
+    "unlocks":[
+      "university"
+    ],
+    "type": "Medieval_Era"
+  },
+  {
+    "key" : "engineering",
+    "name": "مهندسی",
+    "cost": 250,
+    "prerequisiteTechs": [
+      "Mathematics",
+      "construction"
+    ],
+    "leadsToTechs": [
+      "machinery", "physics"
+    ],
+    "unlocks":[
+      null
+    ],
+    "type": "Medieval_Era"
+  },
+  {
+    "key" : "machinery",
+    "name": "دستگاه",
+    "cost": 440,
+    "prerequisiteTechs": [
+      "engineering"
+    ],
+    "leadsToTechs": [
+      "printing press",
+      "civil service"
+    ],
+    "unlocks":[
+      "crossbowman", "1.2 faster road movement" //what the fuck
+    ],
+    "type": "Medieval_Era"
+  },
+  {
+    "key" : "metal casting",
+    "name": "ریخته گری فلزات",
+    "cost": 240,
+    "prerequisiteTechs": [
+      "iron working"
+    ],
+    "leadsToTechs": [
+      "physics",
+      "steel"
+    ],
+    "unlocks":[
+      "forge", "workshop"
+    ],
+    "type": "Medieval_Era"
+  },
+  {
+    "key" : "physics",
+    "name": "فیزیک",
+    "cost": 440,
+    "prerequisiteTechs": [
+      "engineering",
+      "metal casting"
+    ],
+    "leadsToTechs": [
+      "printing press",
+      "gunpowder"
+    ],
+    "unlocks":[
+      "trebuchet"
+    ],
+    "type": "Medieval_Era"
+  },
+  {
+    "key" : "steel",
+    "name": "فولاد",
+    "cost": 440,
+    "prerequisiteTechs": [
+      "metal casting"
+    ],
+    "leadsToTechs": [
+      "gunpowder"
+    ],
+    "unlocks":[
+      "long swordsman"
+    ],
+    "type": "Medieval_Era"
+  },
+  {
+    "key" : "theology",
+    "name": "الهیات",
+    "cost": 250,
+    "prerequisiteTechs": [
+      "calendar",
+      "philosophy"
+    ],
+    "leadsToTechs": [
+      "Education"
+    ],
+    "unlocks":[
+      "monastery", "garden"
+    ],
+    "type": "Medieval_Era"
+  },
+  {
+  "key" : "acoustics",
+  "name": "آکوستیک",
+  "cost": 650,
+  "prerequisiteTechs": [
+    "education"
+  ],
+  "leadsToTechs": [
+    "scientific theory"
+  ],
+  "unlocks":[
+    null
+  ],
+  "type": "Renaissance_Era"
+},
+  {
+    "key" : "archaeology",
+    "name": "باستان شناسی",
+    "cost": 1300,
+    "prerequisiteTechs": [
+      "acoustics"
+    ],
+    "leadsToTechs": [
+      "biology"
+    ],
+    "unlocks":[
+      "museum"
+    ],
+    "type": "Renaissance_Era"
+  },
+  {
+    "key" : "banking",
+    "name": "بانکداری",
+    "cost": 650,
+    "prerequisiteTechs": [
+      "education",
+      "chivalry"
+    ],
+    "leadsToTechs": [
+      "economics"
+    ],
+    "unlocks":[
+      "satrap’s court", "bank"
+    ],
+    "type": "Renaissance_Era"
+  },
+  {
+    "key" : "Chemistry",
+    "name": "شیمی",
+    "cost": 900,
+    "prerequisiteTechs": [
+      "gunpowder"
+    ],
+    "leadsToTechs": [
+      "military science","fertilize"
+    ],
+    "unlocks":[
+      "ironworks"
+    ],
+    "type": "Renaissance_Era"
+  },
+  {
+    "key" : "Economics",
+    "name": "اقتصاد",
+    "cost": 900,
+    "prerequisiteTechs": [
+      "banking",
+      "printing press"
+    ],
+    "leadsToTechs": [
+      "military science"
+    ],
+    "unlocks":[
+      "windmill"
+    ],
+    "type": "Renaissance_Era"
+  },
+  {
+    "key" : "fertilizer",
+    "name": "کود",
+    "cost": 1300,
+    "prerequisiteTechs": [
+      "chemistry"
+    ],
+    "leadsToTechs": [
+      "dynamite"
+    ],
+    "unlocks":[
+      "Farms without Fresh Water yield increased by 1" //fuckkkk
+    ],
+    "type": "Renaissance_Era"
+  },
+  {
+    "key" : "gunpowder",
+    "name": "باروت",
+    "cost": 680,
+    "prerequisiteTechs": [
+      "physics",
+      "steel"
+    ],
+    "leadsToTechs": [
+      "Chemistry",
+      "metallurgy"
+    ],
+    "unlocks":[
+      "musketman"
+    ],
+    "type": "Renaissance_Era"
+  },
+  {
+    "key" : "metallurgy",
+    "name": "متالورژی",
+    "cost": 900,
+    "prerequisiteTechs": [
+      "gunpowder"
+    ],
+    "leadsToTechs": [
+      "rifling"
+    ],
+    "unlocks":[
+      "lancer"
+    ],
+    "type": "Renaissance_Era"
+  },
+  {
+    "key" : "Military Science",
+    "name": "علوم نظامی",
+    "cost": 1300,
+    "prerequisiteTechs": [
+      "economics",
+      "chemistry"
+    ],
+    "leadsToTechs": [
+      "steam power "
+    ],
+    "unlocks":[
+      "cavalry", "military academy"
+    ],
+    "type": "Medieval_Era"
+  },
+  {
+    "key" : "printing press",
+    "name": "چاپخانه",
+    "cost": 650,
+    "prerequisiteTechs": [
+      "machinery",
+      "physics"
+    ],
+    "leadsToTechs": [
+      "economics"
+    ],
+    "unlocks":[
+      "theater"
+    ],
+    "type": "Renaissance_Era"
+  },
+  {
+    "key" : "rifling",
+    "name": "تفنگ",
+    "cost": 1425,
+    "prerequisiteTechs": [
+      "metallurgy"
+    ],
+    "leadsToTechs": [
+      "dynamite"
+    ],
+    "unlocks":[
+      "rifleman"
+    ],
+    "type": "Renaissance_Era"
+  },
+  {
+    "key" : "scientific theory",
+    "name": "نظریه علمی",
+    "cost": 1300,
+    "prerequisiteTechs": [
+      "acoustics"
+    ],
+    "leadsToTechs": [
+      "Biology",
+      "steam power"
+    ],
+    "unlocks":[
+      "public school", "coal"
+    ],
+    "type": "Renaissance_Era"
+  },
+  {
+    "key" : "biology",
+    "name": "زیست شناسی",
+    "cost": 1680,
+    "prerequisiteTechs": [
+      "archaeology",
+      "scientific theory"
+    ],
+    "leadsToTechs": [
+      "electricity"
+    ],
+    "unlocks":[
+      null
+    ],
+    "type": "Industrial_Era"
+  },
+  {
+    "key" : "combustion",
+    "name": "احتراق",
+    "cost": 1300,
+    "prerequisiteTechs": [
+      "replaceable part",
+      "railroad",
+      "dynamite"
+    ],
+    "leadsToTechs": [
+     null
+    ],
+    "unlocks":[
+      "tank", "panzer"
+    ],
+    "type": "Industrial_Era"
+  },
+  {
+    "key" : "dynamite",
+    "name": "دینامیت",
+    "cost": 1900,
+    "prerequisiteTechs": [
+      "fertilizer",
+      "rifling"
+    ],
+    "leadsToTechs": [
+      "combustion"
+    ],
+    "unlocks":[
+      "artillery"
+    ],
+    "type": "Industrial_Era"
+  },
+  {
+    "key" : "Electricity",
+    "name": "برق",
+    "cost": 1900,
+    "prerequisiteTechs": [
+      "biology",
+      "steam power"
+    ],
+    "leadsToTechs": [
+      "telegraph",
+      "radio"
+    ],
+    "unlocks":[
+      "stock exchange"
+    ],
+    "type": "Industrial_Era"
+  },
+  {
+    "key" : "radio",
+    "name": "رادیو",
+    "cost": 2200,
+    "prerequisiteTechs": [
+      "electricity"
+    ],
+    "leadsToTechs": [
+     null
+    ],
+    "unlocks":[
+      "broadcast tower", "coal"
+    ],
+    "type": "Industrial_Era"
+  },
+  {
+    "key" : "railroad",
+    "name": "راه آهن",
+    "cost": 1900,
+    "prerequisiteTechs": [
+      "steam power"
+    ],
+    "leadsToTechs": [
+      "combustion"
+    ],
+    "unlocks":[
+      "arsenal",
+      "railroad"
+    ],
+    "type": "Industrial_Era"
+  },
+  {
+    "key" : "replaceable part",
+    "name": "قطعات قابل تعویض",
+    "cost": 1900,
+    "prerequisiteTechs": [
+      "steam power"
+    ],
+    "leadsToTechs": [
+      "combustion"
+    ],
+    "unlocks":[
+      "anti-tank gun", "infantry"
+    ],
+    "type": "Industrial_Era"
+  },
+  {
+    "key" : "Steam Power",
+    "name": "قدرت بخار",
+    "cost": 1680,
+    "prerequisiteTechs": [
+      "scientific theory",
+      "military science"
+    ],
+    "leadsToTechs": [
+      "electricity",
+      "replaceable part","railroad"
+    ],
+    "unlocks":[
+      "factory"
+    ],
+    "type": "Industrial_Era"
+  },
+  {
+    "key" : "telegraph",
+    "name": "تلگراف",
+    "cost": 2200,
+    "prerequisiteTechs": [
+      "electricity"
+    ],
+    "leadsToTechs": [
+     null
+    ],
+    "unlocks":[
+      "military base"
+    ],
+    "type": "Industrial_Era"
+  }
+]

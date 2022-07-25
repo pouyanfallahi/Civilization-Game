@@ -4,8 +4,7 @@ University Project
 
 <!-- [![Coverity Scan Build Status](https://img.shields.io/coverity/scan/13524.svg)](https://scan.coverity.com/projects/freecol-freecol) -->
 [![Weekly Downloads](https://img.shields.io/sourceforge/dw/freecol.svg)](https://sourceforge.net/projects/freecol/)
-[![Total Downloads](https://img.shields.io/sourceforge/dt/freecol.svg)](https://sourceforge.net/projects/freecol/)
-
+[![Total Downloads](https://img.shields.io/sourceforge/dt/freecol.svg)]
 
 [![Latest Release](https://img.shields.io/github/release/FreeCol/freecol/all.svg)](https://github.com/FreeCol/freecol/releases) [![Latest Release Downloads](https://img.shields.io/github/downloads/FreeCol/freecol/total.svg)](https://github.com/FreeCol/freecol/releases)
 

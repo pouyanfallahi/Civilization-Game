@@ -14,24 +14,8 @@ World?
 
 **Website: ((https://civilization.com/))**
 
-The FreeCol team aims to create an Open Source version of Colonization
-(released under the GPL). At first we'll try to make an exact clone of
-Colonization. The visuals will be brought up to date with more recent
-standards but will remain clean, simple and functional. Certain new
-'features' will be implemented but the gameplay and the rules will be
-exactly the same as the original game. Examples of modern features are:
-an isometric map and multiplayer support.
+Civilization is a series of turn-based strategy video games, first released in 1991. Sid Meier developed the first game in the series and has had creative input for most of the rest, and his name is usually included in the formal title of these games, such as Sid Meier's Civilization. There are six main games in the series, a number of expansion packs and spin-off games, as well as board games inspired by the video game series. The series is considered a formative example of the 4X genre, in which players achieve victory through four routes: "eXplore, eXpand, eXploit, and eXterminate".
 
-This clone will be developed incrementally and result in FreeCol 1.0.0
-which will be an almost exact Colonization clone. Incremental
-development basically means that we'll add features one at a time. This
-allows us to have a running program at all times and also to release an
-unfinished but working game once in a while.
-
-Once FreeCol 1.0.0 is finished we'll start working towards FreeCol
-2.0.0. FreeCol 2 will go beyond the original Colonization and will have
-many new features, it will be an implementation of our (and our users')
-image of what Colonization 2 would have been.
 # Map
 [https://postimg.cc/v43FbJGq](https://i.postimg.cc/KYyZrbw2/Screenshot-from-2022-07-09-23-02-10.png)
 

@@ -12,7 +12,7 @@ World?
 
 ## About civilization.com
 
-**Website: ((https://civilization.com/))**
+**Website: (https://civilization.com)**
 
 Civilization is a series of turn-based strategy video games, first released in 1991. Sid Meier developed the first game in the series and has had creative input for most of the rest, and his name is usually included in the formal title of these games, such as Sid Meier's Civilization. There are six main games in the series, a number of expansion packs and spin-off games, as well as board games inspired by the video game series. The series is considered a formative example of the 4X genre, in which players achieve victory through four routes: "eXplore, eXpand, eXploit, and eXterminate".
 

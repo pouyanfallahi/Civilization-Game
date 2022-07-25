@@ -35,4 +35,5 @@ image of what Colonization 2 would have been.
 # Map
 [https://postimg.cc/v43FbJGq](https://i.postimg.cc/KYyZrbw2/Screenshot-from-2022-07-09-23-02-10.png)
 
-map has all the nessecary information about wvery details of the game such as each civilization(at least two), Train(colors), Terrain-Features, Improvements, Units(all their actions)
+Map has all the nessecary information about every details of the game such as each Civilization(at least two), Train(colors), Terrain-Features, Improvements, Units(all their actions)
+There is also a fog of war that you cannot see your neighbors strategy while you moving your units there or build a city near them.

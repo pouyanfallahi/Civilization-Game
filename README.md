@@ -1,8 +1,8 @@
 # Civilization-Game . University-Final-Project
 
-# FreeCol - Colonization Strategy Game
+# Strategy Game
 
-FreeCol is a turn-based strategy game based on the old game
+Civilization is a turn-based strategy game based on the old game
 Colonization, and similar to Civilization. The objective of the game is
 to create an independent nation.
 
